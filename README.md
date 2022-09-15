@@ -4,4 +4,4 @@
 ![alt text](image.png)
 
 
-#### This project uses two classifier models: Random Forest and Multilayer Perceptron.
+#### This project uses two classifier models: Random Forest and Gradient Boosting.
